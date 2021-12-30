@@ -41,6 +41,8 @@ For more on getting started with Struts, see
 
 * http://cwiki.apache.org/WW/home.html
 
+**mvn -Drat.ignoreErrors=true clean package**
+
 I18N:
 =====
 Please note that this project was created with the assumption that it will be run
